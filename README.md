@@ -17,4 +17,33 @@ MySQL for data storage (employee database with employees table)
 📦 Setup Instructions
 1. Clone the Repository
    https://github.com/prathamvpatil/Python_Employee_Management_GUI.git
+2. Install Requirements
+   Make sure you have the required Python modules:
+   pip install mysql-connector-python
+3. Set Up MySQL Database
+   Open MySQL and run
+   CREATE DATABASE employee;
+
+USE employee;
+
+CREATE TABLE employees (
+  id VARCHAR(10) PRIMARY KEY,
+  name VARCHAR(100),
+  post VARCHAR(100),
+  salary INT
+);
+Note: Update the database credentials in main2.py:
+host="localhost"
+user="root"
+password="YourPassword"
+database="employee"
+4. Run the App
+python main2.py
+
+
+✨ TODO
+Search/filter functionality
+Sort by columns
+Export to CSV
+Authentication system
 
