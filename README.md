@@ -9,10 +9,10 @@ A desktop application built with Python (Tkinter) and MySQL to manage employee r
 4.Remove employees from the system
 5.View all employees in a sortable table
 
-🛠 Tech Stack
+🛠 Tech Stack   
 1.Python 3.x   
-2.Tkinter for GUI
-3.MySQL for data storage (employee database with employees table)
+2.Tkinter for GUI   
+3.MySQL for data storage (employee database with employees table)   
 
 📦 Setup Instructions
 1. Clone the Repository
