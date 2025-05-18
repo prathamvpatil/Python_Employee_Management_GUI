@@ -1,5 +1,5 @@
-**🧑‍💼 Employee Management System (GUI + MySQL)
-**
+🧑‍💼 Employee Management System (GUI + MySQL)
+
 A desktop application built with Python (Tkinter) and MySQL to manage employee records. It supports adding, updating, promoting, and removing employees using an intuitive graphical user interface.
 
 🚀 Features
