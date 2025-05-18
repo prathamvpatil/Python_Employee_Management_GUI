@@ -41,9 +41,9 @@ database="employee"
 python main2.py
 
 
-✨ TODO
-Search/filter functionality
-Sort by columns
-Export to CSV
-Authentication system
+✨ TODO   
+Search/filter functionality   
+Sort by columns   
+Export to CSV   
+Authentication system   
 
